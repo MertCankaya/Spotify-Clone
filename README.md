@@ -14,3 +14,4 @@ We can log in to the application with our spotify account and see our own playli
 ## Author
 Mert Çankaya
 
+
