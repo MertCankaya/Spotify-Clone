@@ -2,7 +2,7 @@
 We can log in to the application with our spotify account and see our own playlist.
 
 ## Spotify Clone Demo Link
-<a href="https://spotify-clone-b6901.web.app/">click me</a>
+<a href="https://spotify-clone-b6901.web.app/">click me</a> for demo.
 
 
 ## Topics
