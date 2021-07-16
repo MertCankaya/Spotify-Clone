@@ -10,6 +10,8 @@ We can log in to the application with our spotify account and see our own playli
 + Spotify API
 + Context API (Redux Pattern)
 + Material UI
++ 3rd party API
++ Responsice Design
 
 ## Author
 Mert Çankaya
