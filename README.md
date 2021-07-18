@@ -1,5 +1,5 @@
 # Spotify Clone with ReactJS
-We can log in to the application with our spotify account and see our own playlist.
+In this Spotify Clone application you can log in to the application with your spotify account and see your own playlist.
 
 ## Spotify Clone Demo Link
 <a href="https://spotify-clone-b6901.web.app/">click me</a> for demo.
