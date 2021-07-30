@@ -1,0 +1,3 @@
+Spotify clone is a minimal  UI for creating spotify using React.js.
+Easy to understand and one can follow through interacting with the code samples.
+It require basic knowledge using HTML, CSS and javascript.
